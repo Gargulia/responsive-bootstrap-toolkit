@@ -22,19 +22,19 @@ Current version: **2.6.3**
 
 Using Bower:
 ````
-bower install responsive-toolkit
+bower install responsive-toolkit-repub
 ````
 Using NPM:
 ````
-npm install responsive-toolkit
+npm install responsive-toolkit-repub
 ````
 
 ### Demo
 
 Live example available on [CodePen](http://codepen.io/dih/full/ivECj). Hosted along with repository are the following usage examples:
-* [Bootstrap demo](https://github.com/maciej-gurban/responsive-bootstrap-toolkit/tree/master/demos/bootstrap)
-* [Foundation demo](https://github.com/maciej-gurban/responsive-bootstrap-toolkit/tree/master/demos/foundation)
-* [Custom breakpoints demo](https://github.com/maciej-gurban/responsive-bootstrap-toolkit/tree/master/demos/custom)
+* [Bootstrap demo](https://github.com/Gargulia/responsive-bootstrap-toolkit/tree/master/demos/bootstrap)
+* [Foundation demo](https://github.com/Gargulia/responsive-bootstrap-toolkit/tree/master/demos/foundation)
+* [Custom breakpoints demo](https://github.com/Gargulia/responsive-bootstrap-toolkit/tree/master/demos/custom)
 
 
 #### Basic usage:
@@ -145,10 +145,6 @@ Paste just before `</body>`
 <!-- Your scripts using Responsive Bootstrap Toolkit -->
 <script src="js/main.js"></script>
 ````
-
-### Migrating from an older version
-
-Refer to the [changelog](https://github.com/maciej-gurban/responsive-bootstrap-toolkit/blob/master/CHANGELOG.md) for a list of changes in each version of the library.
 
 #### Dependencies:
 * jQuery
